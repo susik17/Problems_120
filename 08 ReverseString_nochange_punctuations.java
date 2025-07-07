@@ -80,3 +80,7 @@ class Main {
         reverse_nochange_punctuation(s);
     }
 }
+/*
+ ip:house no:123@ cbe
+ op:ebc32 1o:nes@ uoh
+ */
